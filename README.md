@@ -1,18 +1,6 @@
 # Vector Quicksorting and Duplicate Removal
 
-This C++ program takes a vector as input, performs quicksort to sort the elements, and then removes duplicate values to produce a vector with unique elements. Based on this task:
-```plaintext
-Implement a program that reads contents of a vector from the standard input.
-The program sorts the vector using the quicksort algorithm.
-Then the program eliminates all duplicates in the vector,
-and stores in the vector only the unique elements.
-
-Example input:
-0 3 0 1 4 5 6 5
-
-Example output:
-0 1 3 4 5 6
-```
+This C++ program takes a vector as input, performs quicksort to sort the elements, and then removes duplicate values to produce a vector with unique elements.
 
 ## How to Use
 
